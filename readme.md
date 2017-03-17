@@ -1,3 +1,3 @@
 # fsg.js - FrontendStudyGroup.js
 
-- Study on Javascript Libraries
+- 자바스크립트 라이브러리 스터디
