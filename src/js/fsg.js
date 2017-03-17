@@ -9,8 +9,8 @@
 
     FSG.sayHello = function() {
       console.log('hello from Frontend Study Group!!!');
-    }
-
+    };
+    
     return FSG;
   }
 
