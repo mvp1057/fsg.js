@@ -1,3 +1,3 @@
-# FS - FrontendStudygroup.js
+# fsg.js - FrontendStudyGroup.js
 
 - Study on Javascript Libraries
