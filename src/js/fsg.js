@@ -14,6 +14,12 @@
 		FSG.console = function(msg){
 			console.log(msg);
 		}
+		FSG.sayBye =function(){
+			console.log('bye bye!');
+		}
+	
+
+
     return FSG;
   }
 
