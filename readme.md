@@ -1,3 +1,4 @@
-# fsg.js - FrontendStudyGroup.js
+# Github 포크/풀 리퀘스트(Fork & Pull Request) 워크플로우
 
-- 자바스크립트 라이브러리 스터디
+## Source
+- [Chaser324/GitHub-Forking.md](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
