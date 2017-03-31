@@ -18,6 +18,10 @@
     FSG.sayBye = function () {
       console.log('bye bye!');
     }
+    
+    FSG.sum = function (a, b) {
+      return a + b;
+    }
 
     return FSG;
   }
