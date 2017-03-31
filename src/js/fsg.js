@@ -23,6 +23,10 @@
       return a + b;
     }
 
+    FSG.subtract = function(a, b) {
+      return a - b;
+    }
+
     return FSG;
   }
 
