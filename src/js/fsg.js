@@ -27,6 +27,8 @@
       return a - b;
     }
 
+    console.log('test msg');
+
     return FSG;
   }
 
