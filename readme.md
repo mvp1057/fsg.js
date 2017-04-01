@@ -8,7 +8,7 @@
 - '포크'로 가져올 레포지토리의 페이지에서 `FORK` 버튼을 누른다!
 - 자기 깃허브 프로필에 방금 포크한 레포지토리가 생성된다!
 - 포크 레포지토리 페이지 상단에 `Clone or download` 버튼을 누르면 git주소를 볼수있다.(복사)
-- testtest
+
 ```shell
 # 포크 레포지토리 로컬환경으로 클론하기
 git clone git@github.com:USERNAME/FORKED-PROJECT.git (복사한 깃주소)
