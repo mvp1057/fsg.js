@@ -1,5 +1,9 @@
 # Github 포크/풀 리퀘스트 워크플로우
 
+## 같이 사용해볼 툴들
+- 텍스트 에디터: [VSCODE](https://code.visualstudio.com/)
+- 깃 GUI: [SOURCETREE](https://www.sourcetreeapp.com/)
+
 ## 포크 레포지토리 만들기
 - '포크'로 가져올 레포지토리의 페이지에서 `FORK` 버튼을 누른다!
 - 자기 깃허브 프로필에 방금 포크한 레포지토리가 생성된다!
